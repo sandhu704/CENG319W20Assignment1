@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">CENG319W20Assignment1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="Life_Cycle_Demonstration">Activity Life Cycle Demonstration</string>
+    <string name="Main_Activity">Main Activity</string>
+    <string name="AI_Activity"></string>
+    <string name="VR_Activity"></string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="Life_Cycle_Demonstration">Démonstration du cycle de vie de la activité </string>
+    <string name="Main_Activity">Main Activite</string>
+    <string name="AI_Activity"></string>
+    <string name="VR_Activity"></string>
+
+
+
+
+
+
+
+</resources>
